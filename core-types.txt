@@ -1,0 +1,25 @@
+number: all numbers no differentation between integers or floats
+string: all text values
+boolean truthy falsey
+object: any js object, more specific types (type of object are possible);
+array:  any javascript arry, type can be flexible or strict(regarding the element types)
+
+******new ts types*********
+
+Tuple: fixed length array also fixed type
+Enum: automatically enumerated global constant identifiers
+any: any type of value, no specific value set;
+alias: merge complex types
+union: 
+unknown:
+never: 
+
+Complier: tsc app.ts manually compiles
+tsc app.ts -w
+tsc --init
+tsc = all files
+tsc -w all files in watch mode
+
+
+
+
